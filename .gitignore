@@ -8,3 +8,5 @@ target/
 .classpath
 *.core.prefs
 .jazzignore
+.gradle/
+build/
